@@ -11,5 +11,6 @@ Features:
 
 Add your own `OPENAI_API_KEY` to the `.env` file for the code to work.
 
-Main file to run: `pdf_reader_app.py`
-A langchgain tutorial notebook is included `LangChain.ipynb` to help users understand the underlying concepts of RAG 
+Main file to run: `pdf_reader_app.py`.
+
+A langchgain tutorial notebook is included `LangChain.ipynb` to help users understand the underlying concepts of RAG. 
